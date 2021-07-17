@@ -1,0 +1,4 @@
+{
+  "jsontoken": "mysecret",
+  "mongoURL": "mongodb+srv://Gulsan:abc@123@cluster0.uhomq.mongodb.net/shopping?retryWrites=true&w=majority"
+}
